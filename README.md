@@ -247,11 +247,15 @@ The ORCID above identifies me as the student researcher. The source dataset DOI 
 <a id="template-and-software"></a>
 
 ## 💭 Reflection Draft
-
-
 The most challenging part was connecting my interest in student anxiety and daily habits to an educational research question. I initially focused on stress, but I wanted the project to examine students' learning behaviors more directly. I chose attendance and study time as outcomes and made anxiety the main predictor, while considering social media use and sleep together. Creating the data dictionary helped clarify these roles and showed why the derived stress score requires caution. I also learned to distinguish associations from causal effects and learning behavior from learning achievement. I also had a lot of fun creating this README and making it colorful and playful. I gained ideas and inspiration from other repositories and YouTube tutorials. Practicing what I learned helped me make deeper connections between the ideas and remember them more clearly. This gave me knowledge I can use again in future projects.
 <a id="citation"></a>
+## 🎨 Template and Software
 
+This file uses GitHub-flavored Markdown with simple HTML for the centered heading, colorful badge rows, and navigation. Emoji section markers, GitHub alerts, and expandable documentation make the research easier to browse. Its visual layout is inspired by the Clairvoyant and Markdownify examples referenced in the assigned video. The text and sections are adapted for a research project.
+
+The badges use [Shields.io](https://shields.io/). [Make a README](https://www.makeareadme.com/) provides an organizational reference, and [OSF's data dictionary guide](https://help.osf.io/article/217-how-to-make-a-data-dictionary) informs the variable documentation.
+
+<a id="reflection-draft"></a>
 ## 🔖 Citation
 the original dataset creators:
 
